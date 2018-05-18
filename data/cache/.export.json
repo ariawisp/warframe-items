@@ -1,0 +1,686 @@
+{
+ "ExportCustoms_de.json": {
+  "hash": "ikO6Gay9MwABg+FVhIf-pg"
+ },
+ "ExportDrones_de.json": {
+  "hash": "ecubksRZY1QtxJOMiB25gA"
+ },
+ "ExportFlavour_de.json": {
+  "hash": "2ZaHqRXYaUyUsmzTFmtIaQ"
+ },
+ "ExportFusionBundles_de.json": {
+  "hash": "qTYyNbKWGwtxcmdODhwjzg"
+ },
+ "ExportGear_de.json": {
+  "hash": "Axc4qSxnwd2jItY+WNptDQ"
+ },
+ "ExportKeys_de.json": {
+  "hash": "+yiZA7IMBEIdC9hSdvkElw"
+ },
+ "ExportRecipes_de.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_de.json": {
+  "hash": "NN6EQxDTo3ST-I7GUUrurw"
+ },
+ "ExportRelicArcane_de.json": {
+  "hash": "Cd+HZWvlUa7zCvM7zt577g"
+ },
+ "ExportResources_de.json": {
+  "hash": "MTvZJpG8SF33QgKO5FP4rw"
+ },
+ "ExportSentinels_de.json": {
+  "hash": "OeCpUYhFR5wNazmbYPTiwQ"
+ },
+ "ExportSortieRewards_de.json": {
+  "hash": "ePpWTxPd5mHd01oqIEqRDw"
+ },
+ "ExportUpgrades_de.json": {
+  "hash": "+dHoR8FeC1tWKHydgfE4fg"
+ },
+ "ExportWarframes_de.json": {
+  "hash": "XN6D9+pM9OElUlETnJzvGA"
+ },
+ "ExportWeapons_de.json": {
+  "hash": "mcM5S3Ra3WzagdAPm1IqmA"
+ },
+ "ExportCustoms_fr.json": {
+  "hash": "fksi7I7nK5yljqjBHzow2w"
+ },
+ "ExportDrones_fr.json": {
+  "hash": "V-JQ1aR5qdqjVotDdJyALQ"
+ },
+ "ExportFlavour_fr.json": {
+  "hash": "Kt74NgyP5576JwCzLZFZrg"
+ },
+ "ExportFusionBundles_fr.json": {
+  "hash": "3beDisIznvmCTxY068SG-g"
+ },
+ "ExportGear_fr.json": {
+  "hash": "zqv3BAevJhz9pJ06+39evw"
+ },
+ "ExportKeys_fr.json": {
+  "hash": "LXGp4pGYOI5Zm0-zwnKIig"
+ },
+ "ExportRecipes_fr.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_fr.json": {
+  "hash": "ATQlKlqCYIB2qUPPtK4csg"
+ },
+ "ExportRelicArcane_fr.json": {
+  "hash": "qg-gOdl16FsITaQHlXw9mg"
+ },
+ "ExportResources_fr.json": {
+  "hash": "k1yz3PKP5xMWMmlBwJFraQ"
+ },
+ "ExportSentinels_fr.json": {
+  "hash": "LvcPECgYUYVPTauzJQVsFg"
+ },
+ "ExportSortieRewards_fr.json": {
+  "hash": "Ck+UukrvvElf5e4QtETgow"
+ },
+ "ExportUpgrades_fr.json": {
+  "hash": "Dne++udxrgGYgVYn9PlzeQ"
+ },
+ "ExportWarframes_fr.json": {
+  "hash": "OdbfhXlemNobP1YaJYkdoA"
+ },
+ "ExportWeapons_fr.json": {
+  "hash": "VCUK1Jg4oadAZif8cCp+sA"
+ },
+ "ExportCustoms_it.json": {
+  "hash": "ysdHbqpjJrKqq0MaMJBgSA"
+ },
+ "ExportDrones_it.json": {
+  "hash": "UfSIJKRUatcHG+T2IcCd3g"
+ },
+ "ExportFlavour_it.json": {
+  "hash": "ScUb22m7oqscVAZWSzapjg"
+ },
+ "ExportFusionBundles_it.json": {
+  "hash": "JxZ4tT1H6QnrTz2dT36ZAQ"
+ },
+ "ExportGear_it.json": {
+  "hash": "SUb92LDrFaMLW3QEAe2OVQ"
+ },
+ "ExportKeys_it.json": {
+  "hash": "eY1LFRTMxq+66X3fYwPNqA"
+ },
+ "ExportRecipes_it.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_it.json": {
+  "hash": "NQyN6SXD2zTxPUYIbuXjMA"
+ },
+ "ExportRelicArcane_it.json": {
+  "hash": "eV1b3V2kIoXrltqZCuR8tA"
+ },
+ "ExportResources_it.json": {
+  "hash": "Ov1crYWD728SFQ3Ya4QTng"
+ },
+ "ExportSentinels_it.json": {
+  "hash": "sc0TX3XxatA4VlyDpvJmPw"
+ },
+ "ExportSortieRewards_it.json": {
+  "hash": "PCENPIQ8GmWw-VE0JAdDUg"
+ },
+ "ExportUpgrades_it.json": {
+  "hash": "ZCRBC-7dDH9+98QqulrzcQ"
+ },
+ "ExportWarframes_it.json": {
+  "hash": "wLy6W9oxmOTe4UL5atCzdw"
+ },
+ "ExportWeapons_it.json": {
+  "hash": "J985VYhjDxDsUdQcx4XQzw"
+ },
+ "ExportCustoms_ko.json": {
+  "hash": "cVXhgHxJvSgLJURJpQRhLw"
+ },
+ "ExportDrones_ko.json": {
+  "hash": "AkzppEtrX0+PDxEM5+QkyA"
+ },
+ "ExportFlavour_ko.json": {
+  "hash": "YI+Gm+V6QsrBCnDlkUOkIg"
+ },
+ "ExportFusionBundles_ko.json": {
+  "hash": "6Rq1jEMi+gDd6p3v+hbrEw"
+ },
+ "ExportGear_ko.json": {
+  "hash": "IxgByIHtdXaQxfjS5kD28w"
+ },
+ "ExportKeys_ko.json": {
+  "hash": "RjSzJIiuFk0zyZFaZm2rLg"
+ },
+ "ExportRecipes_ko.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_ko.json": {
+  "hash": "21NP0QbK9nHvxBWgIZj9qQ"
+ },
+ "ExportRelicArcane_ko.json": {
+  "hash": "JaX644xjsksc9PXW-zUXYw"
+ },
+ "ExportResources_ko.json": {
+  "hash": "9FkXxHpeEAcNMl6offzYuw"
+ },
+ "ExportSentinels_ko.json": {
+  "hash": "dt+3G4-R-cf2hAOlCde9VA"
+ },
+ "ExportSortieRewards_ko.json": {
+  "hash": "JyERcpx0p30IFhThectf5Q"
+ },
+ "ExportUpgrades_ko.json": {
+  "hash": "K1Y0tDqbAkcGaX-g8Isa0g"
+ },
+ "ExportWarframes_ko.json": {
+  "hash": "FzszlPK4TFw5gCVHRL7-Kg"
+ },
+ "ExportWeapons_ko.json": {
+  "hash": "UbNcYqcTmGpdpsAFZQURiA"
+ },
+ "ExportCustoms_es.json": {
+  "hash": "vMmYt5B67zFe7ISdl5Xm6w"
+ },
+ "ExportDrones_es.json": {
+  "hash": "JI8nLIBN2sjFMdbRRm0D2A"
+ },
+ "ExportFlavour_es.json": {
+  "hash": "1iY3XBNmDR2zfFACCwZlNA"
+ },
+ "ExportFusionBundles_es.json": {
+  "hash": "2KKeLTJKkzF5+xb7J7+yFQ"
+ },
+ "ExportGear_es.json": {
+  "hash": "l371320eXInVzRjnBnnmOg"
+ },
+ "ExportKeys_es.json": {
+  "hash": "MDW+qaDg9s3N9yGaH3bpmA"
+ },
+ "ExportRecipes_es.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_es.json": {
+  "hash": "wZWPZFw8PLdNYhfAJbsv-A"
+ },
+ "ExportRelicArcane_es.json": {
+  "hash": "XD8d1oFxpKlZBKReLbl2dQ"
+ },
+ "ExportResources_es.json": {
+  "hash": "rZ1mr0Dyxg97573aMv0QeA"
+ },
+ "ExportSentinels_es.json": {
+  "hash": "arGYxst6Qud7j5Q70fo0TA"
+ },
+ "ExportSortieRewards_es.json": {
+  "hash": "fPWON82fMzEa4Q9F5s3R3A"
+ },
+ "ExportUpgrades_es.json": {
+  "hash": "kNbKAp8bVL0qp6KTe95e7Q"
+ },
+ "ExportWarframes_es.json": {
+  "hash": "ZA+UcMXzyz+SgvorRgM0bQ"
+ },
+ "ExportWeapons_es.json": {
+  "hash": "E6v69jxfD-Mn43FUhgrRhg"
+ },
+ "ExportCustoms_zh.json": {
+  "hash": "-LPZAYqSIxRYTHboYlWRHA"
+ },
+ "ExportDrones_zh.json": {
+  "hash": "nm9WLTe5YxwZGgPklStPJw"
+ },
+ "ExportFlavour_zh.json": {
+  "hash": "k2-mA6MVIFIh76sHl4fdOg"
+ },
+ "ExportFusionBundles_zh.json": {
+  "hash": "3F4dTCbMXoA2nfFGB3EHHQ"
+ },
+ "ExportGear_zh.json": {
+  "hash": "pvGcAxU5SR75iNB1kByZfg"
+ },
+ "ExportKeys_zh.json": {
+  "hash": "o-IktLehg82v46f1u4Wc7g"
+ },
+ "ExportRecipes_zh.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_zh.json": {
+  "hash": "CL9JFUQfvUTS+BExCuvGIQ"
+ },
+ "ExportRelicArcane_zh.json": {
+  "hash": "NIAMKVb-WeEIle9O6cT0Qw"
+ },
+ "ExportResources_zh.json": {
+  "hash": "51N77SF7De0q-lX9MX+mNA"
+ },
+ "ExportSentinels_zh.json": {
+  "hash": "aS+tuVzwGhaqnbSw08HQNA"
+ },
+ "ExportSortieRewards_zh.json": {
+  "hash": "O+PN7-HAPK9o8mu0gjkrgQ"
+ },
+ "ExportUpgrades_zh.json": {
+  "hash": "zEeqMVhM1th78-R3JajLqA"
+ },
+ "ExportWarframes_zh.json": {
+  "hash": "16Roi6waVL986mob7+QlrA"
+ },
+ "ExportWeapons_zh.json": {
+  "hash": "NTq5TpVUWsKQNuLqpjYp4Q"
+ },
+ "ExportCustoms_ru.json": {
+  "hash": "R9qr78sS+nqHk4qNTybL7A"
+ },
+ "ExportDrones_ru.json": {
+  "hash": "yUMKNcjBcv8i9hK9rBoC-Q"
+ },
+ "ExportFlavour_ru.json": {
+  "hash": "rfnDewrqLLMRzPc1vcfauA"
+ },
+ "ExportFusionBundles_ru.json": {
+  "hash": "rlsv07SGZVEpbvz6TQoRUQ"
+ },
+ "ExportGear_ru.json": {
+  "hash": "d8fZfiMbqseHjbp43bLoOw"
+ },
+ "ExportKeys_ru.json": {
+  "hash": "ikfyF2MfIlHSYRS1SYM5qA"
+ },
+ "ExportRecipes_ru.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_ru.json": {
+  "hash": "M1YlwRBZOfJ2aDC5tWBBnQ"
+ },
+ "ExportRelicArcane_ru.json": {
+  "hash": "D9G2eqexbQpOYBE3tCa6HA"
+ },
+ "ExportResources_ru.json": {
+  "hash": "rKnL7ARwas00C29eBVf7iQ"
+ },
+ "ExportSentinels_ru.json": {
+  "hash": "OoJWKStDbTsBUN+iIbpB1w"
+ },
+ "ExportSortieRewards_ru.json": {
+  "hash": "n2x0UvR6hBsfOtKlQOFJ6A"
+ },
+ "ExportUpgrades_ru.json": {
+  "hash": "C3pZeFe9+J9NOd8hx6DIdw"
+ },
+ "ExportWarframes_ru.json": {
+  "hash": "77DAEiM-KcTA2ErtSGhZJw"
+ },
+ "ExportWeapons_ru.json": {
+  "hash": "2iPn-fnIpP9PTw9BO5XyGQ"
+ },
+ "ExportCustoms_ja.json": {
+  "hash": "1MjtFIGS7G7btXeOs9Y-8Q"
+ },
+ "ExportDrones_ja.json": {
+  "hash": "vh0AFjlmF3PTsaR-XABl8w"
+ },
+ "ExportFlavour_ja.json": {
+  "hash": "KN+gpfZVoD1VSd23GVR93g"
+ },
+ "ExportFusionBundles_ja.json": {
+  "hash": "ONSFBXnqTxhfi9xFQRdzow"
+ },
+ "ExportGear_ja.json": {
+  "hash": "Sibf7K1jS636uMwJrwql2A"
+ },
+ "ExportKeys_ja.json": {
+  "hash": "KW4GNhEKTKeLcB028O2Mcw"
+ },
+ "ExportRecipes_ja.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_ja.json": {
+  "hash": "trudaiJZh07k8DQaxTghuw"
+ },
+ "ExportRelicArcane_ja.json": {
+  "hash": "xBPptYL2bNF7+PJsoeuKhA"
+ },
+ "ExportResources_ja.json": {
+  "hash": "Fe69boPY---6YvAFe+1f9w"
+ },
+ "ExportSentinels_ja.json": {
+  "hash": "c8B4VjxWy1ngsjm+G2-nTQ"
+ },
+ "ExportSortieRewards_ja.json": {
+  "hash": "tDHBVhxWrlInaamzQVqn3w"
+ },
+ "ExportUpgrades_ja.json": {
+  "hash": "PiyTPHECKXnJqmXqaxKXwQ"
+ },
+ "ExportWarframes_ja.json": {
+  "hash": "vjS6SCM1z7r2xW87lM0dwg"
+ },
+ "ExportWeapons_ja.json": {
+  "hash": "RzYtyRy-ZFRua8imJU4AgQ"
+ },
+ "ExportCustoms_pl.json": {
+  "hash": "3BAh3+N84-2S59JY9fJS1g"
+ },
+ "ExportDrones_pl.json": {
+  "hash": "sdZIboIU2Z3UAzH0Hup4Jg"
+ },
+ "ExportFlavour_pl.json": {
+  "hash": "StPeFprdJhI9A8LA0+ji5w"
+ },
+ "ExportFusionBundles_pl.json": {
+  "hash": "VfRnbCTJIcyeXWEAwmgpfA"
+ },
+ "ExportGear_pl.json": {
+  "hash": "f4PqJYz0Ku+zGiDb2mpeTA"
+ },
+ "ExportKeys_pl.json": {
+  "hash": "zjCuVG+PFBirVcoX2AsbfQ"
+ },
+ "ExportRecipes_pl.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_pl.json": {
+  "hash": "MOpVyLXAyQ51GhReG0ixRQ"
+ },
+ "ExportRelicArcane_pl.json": {
+  "hash": "99xX7+5SpJHyWs4zkpq-NA"
+ },
+ "ExportResources_pl.json": {
+  "hash": "YqXmmD0O0ZLzkqd61RLBxA"
+ },
+ "ExportSentinels_pl.json": {
+  "hash": "3zf9oQMV5EEh1EtdfuzcJg"
+ },
+ "ExportSortieRewards_pl.json": {
+  "hash": "iBBDZqMggWf0TNToTFAHYg"
+ },
+ "ExportUpgrades_pl.json": {
+  "hash": "oYq121ORw3rMY6lYfEWp3Q"
+ },
+ "ExportWarframes_pl.json": {
+  "hash": "7eTQps-CJPmNCe0NzAhjRg"
+ },
+ "ExportWeapons_pl.json": {
+  "hash": "fuJl3YC6GofsFzzF2nqlaw"
+ },
+ "ExportCustoms_pt.json": {
+  "hash": "eEiBFq7l5GVjqMLPjT8N5A"
+ },
+ "ExportDrones_pt.json": {
+  "hash": "8BEuqYc2u8eviwU3y9POzg"
+ },
+ "ExportFlavour_pt.json": {
+  "hash": "m4H6q7QKDDw7AlSYxO3snQ"
+ },
+ "ExportFusionBundles_pt.json": {
+  "hash": "FxAUzIx-nVEtWEskWa2+Uw"
+ },
+ "ExportGear_pt.json": {
+  "hash": "n-YRMcJsFb806qG25ijDwQ"
+ },
+ "ExportKeys_pt.json": {
+  "hash": "QfA-8GHCGV46XDH4UhHYzQ"
+ },
+ "ExportRecipes_pt.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_pt.json": {
+  "hash": "y38IgPquWXsg5n4FTiYJ6A"
+ },
+ "ExportRelicArcane_pt.json": {
+  "hash": "1fbd8FuT1B-lk93NuHMzsQ"
+ },
+ "ExportResources_pt.json": {
+  "hash": "zkVmZujeX3IKOGi29Quw1A"
+ },
+ "ExportSentinels_pt.json": {
+  "hash": "efk9v+E-ttUcj7zipJBGtw"
+ },
+ "ExportSortieRewards_pt.json": {
+  "hash": "X2P8z8KTA1R9lCCwA6Q79A"
+ },
+ "ExportUpgrades_pt.json": {
+  "hash": "7ieIUwd6Mv-tFADYfd4DoQ"
+ },
+ "ExportWarframes_pt.json": {
+  "hash": "86DDfp0oEvdRn1cTP+UYEA"
+ },
+ "ExportWeapons_pt.json": {
+  "hash": "6GKNns09gKPim1JplNG17Q"
+ },
+ "ExportCustoms_tc.json": {
+  "hash": "WZGW9Jlfn1YUmBnVcNjyrg"
+ },
+ "ExportDrones_tc.json": {
+  "hash": "dXCVUQPjQWsGBpMEQ92dNw"
+ },
+ "ExportFlavour_tc.json": {
+  "hash": "Tb3VnQfJlEFVLTj2j0pBEQ"
+ },
+ "ExportFusionBundles_tc.json": {
+  "hash": "ZpWGwxbR+4tDtHkfNiOqAw"
+ },
+ "ExportGear_tc.json": {
+  "hash": "FDqjO14gIHG5GTs3T2XBVA"
+ },
+ "ExportKeys_tc.json": {
+  "hash": "yCaN0XTnb6wFKaYzNbfO9A"
+ },
+ "ExportRecipes_tc.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_tc.json": {
+  "hash": "NeLadzgwg5O71XZPH6+CSw"
+ },
+ "ExportRelicArcane_tc.json": {
+  "hash": "SvXDQ+0DMFIMjLIKWG8mNw"
+ },
+ "ExportResources_tc.json": {
+  "hash": "lqebQ4CggLdtJ55zOuCYRg"
+ },
+ "ExportSentinels_tc.json": {
+  "hash": "W3Xkv1C6VjB0Bxl44OLQIQ"
+ },
+ "ExportSortieRewards_tc.json": {
+  "hash": "uDgenb4ThDMMXtukGBop7w"
+ },
+ "ExportUpgrades_tc.json": {
+  "hash": "+v6L8g1BUdzI71b2n12wbw"
+ },
+ "ExportWarframes_tc.json": {
+  "hash": "QpXBE6QzaUY5AR-XYsCA4A"
+ },
+ "ExportWeapons_tc.json": {
+  "hash": "WNQCUorwHWVtJPu6XlVJgQ"
+ },
+ "ExportCustoms_th.json": {
+  "hash": "EG6IpwjCMCap0SS+KaI7Dg"
+ },
+ "ExportDrones_th.json": {
+  "hash": "-NX8hIhETRIddQkRqoxRTQ"
+ },
+ "ExportFlavour_th.json": {
+  "hash": "Qk7d6GaailwP71gVSbPIMQ"
+ },
+ "ExportFusionBundles_th.json": {
+  "hash": "AxwiCJR7a062yhgcxq-u3Q"
+ },
+ "ExportGear_th.json": {
+  "hash": "fYL32EJ9uW8C04HNom2kyg"
+ },
+ "ExportKeys_th.json": {
+  "hash": "BdqxeF49qnh-da77g5c06g"
+ },
+ "ExportRecipes_th.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_th.json": {
+  "hash": "OOmFFS3u4RUHNk2vBQacxA"
+ },
+ "ExportRelicArcane_th.json": {
+  "hash": "gbjtbeqOGwEscC7gjrLw8g"
+ },
+ "ExportResources_th.json": {
+  "hash": "Cn1FSHjTQkUlBCUkqU7-jg"
+ },
+ "ExportSentinels_th.json": {
+  "hash": "vqsQYT2gIumaG3E4AcT6XQ"
+ },
+ "ExportSortieRewards_th.json": {
+  "hash": "qNfDWzdWB23-2J63zy9KrA"
+ },
+ "ExportUpgrades_th.json": {
+  "hash": "PqUfB26D5WNYs6qjRQFNtw"
+ },
+ "ExportWarframes_th.json": {
+  "hash": "HT8d3nhhlpdKL1dbbe0zSw"
+ },
+ "ExportWeapons_th.json": {
+  "hash": "3YRwGhXH2q5bdtLKOMzWnQ"
+ },
+ "ExportCustoms_tr.json": {
+  "hash": "tghDi+StOQElJWm0FbWDIQ"
+ },
+ "ExportDrones_tr.json": {
+  "hash": "nhTSKgPzmibamOPBFl+sBg"
+ },
+ "ExportFlavour_tr.json": {
+  "hash": "kJ-wL2Mb0mNC7NcqboO32w"
+ },
+ "ExportFusionBundles_tr.json": {
+  "hash": "8V5HXFzbkkoj7ZCrlFU8bQ"
+ },
+ "ExportGear_tr.json": {
+  "hash": "rx-itz4bnoswYfNXwh4H5w"
+ },
+ "ExportKeys_tr.json": {
+  "hash": "5kUxVaYJ357n+Q7o-tiVBA"
+ },
+ "ExportRecipes_tr.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_tr.json": {
+  "hash": "PivbpBTW6v3HT4ANz2X3mQ"
+ },
+ "ExportRelicArcane_tr.json": {
+  "hash": "scdLHtDR4Jcc1Yu-HDB4Dw"
+ },
+ "ExportResources_tr.json": {
+  "hash": "WerFJ-idGrs6aYNN6ieJOA"
+ },
+ "ExportSentinels_tr.json": {
+  "hash": "WDDfnGzfh9sxEYCQvytuqQ"
+ },
+ "ExportSortieRewards_tr.json": {
+  "hash": "wIrczRLCTXN3o6shve9hog"
+ },
+ "ExportUpgrades_tr.json": {
+  "hash": "hwKWnJo+v8QNDBNQbqZ63A"
+ },
+ "ExportWarframes_tr.json": {
+  "hash": "I72py3FpFePql+W--x4Fgw"
+ },
+ "ExportWeapons_tr.json": {
+  "hash": "O3owjrLhUuh7Vj0jJieNVQ"
+ },
+ "ExportCustoms_uk.json": {
+  "hash": "RqpZ41zDsJBtQkMVq8WNsw"
+ },
+ "ExportDrones_uk.json": {
+  "hash": "9YcuUPHzg3dlYv6psmzXkQ"
+ },
+ "ExportFlavour_uk.json": {
+  "hash": "SOdryxBLCbksx9IO6+MzwQ"
+ },
+ "ExportFusionBundles_uk.json": {
+  "hash": "UrzHLOQXBowgv4ZjNtx68g"
+ },
+ "ExportGear_uk.json": {
+  "hash": "60ou1-AfHgY27hzFqqAVmQ"
+ },
+ "ExportKeys_uk.json": {
+  "hash": "BDAaJ6ccquPL+UHSMagbCg"
+ },
+ "ExportRecipes_uk.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_uk.json": {
+  "hash": "F+q541fnpEBwctF-1XBgTg"
+ },
+ "ExportRelicArcane_uk.json": {
+  "hash": "02BrBzKs70KK2VT77o66oA"
+ },
+ "ExportResources_uk.json": {
+  "hash": "MUp9lJ9vugSwYcNaASuaig"
+ },
+ "ExportSentinels_uk.json": {
+  "hash": "b455OCo6USRqbsiqO9Vjrg"
+ },
+ "ExportSortieRewards_uk.json": {
+  "hash": "DfQOfSO2ydD08oMFYl6PPw"
+ },
+ "ExportUpgrades_uk.json": {
+  "hash": "1f3BtFwA58QFimRHqmPA8Q"
+ },
+ "ExportWarframes_uk.json": {
+  "hash": "6uigk97-gE6HmJ9MwCaQ5w"
+ },
+ "ExportWeapons_uk.json": {
+  "hash": "yDcQ2zntLyh6z5Z3WAMK5Q"
+ },
+ "ExportCustoms_en.json": {
+  "hash": "EFenHKcyDN96I8ZpvwwSvQ"
+ },
+ "ExportDrones_en.json": {
+  "hash": "LZKVJWzyNlEXy-hI3mpGnA"
+ },
+ "ExportFlavour_en.json": {
+  "hash": "ZInPOwiHr4i-aOA0gXnozQ"
+ },
+ "ExportFusionBundles_en.json": {
+  "hash": "yOD81zJOvs6qph81j6McIQ"
+ },
+ "ExportGear_en.json": {
+  "hash": "R5CpQLHLK-+qsB02gHm7oA"
+ },
+ "ExportKeys_en.json": {
+  "hash": "Lp76eoKm5m7LiXCvzbwQ2Q"
+ },
+ "ExportRecipes_en.json": {
+  "hash": "HQ3YBlXk7UkWQ8JLvtAyHg"
+ },
+ "ExportRegions_en.json": {
+  "hash": "Jh7xs71GtZ2TRoWHFLBrxA"
+ },
+ "ExportRelicArcane_en.json": {
+  "hash": "+6U7E3jh+f6Eh3vjUeiAVg"
+ },
+ "ExportResources_en.json": {
+  "hash": "2WlRJWJE3xTwmsEYMp6NPg"
+ },
+ "ExportSentinels_en.json": {
+  "hash": "X60AbrpimbjJB2JPLaAh7g"
+ },
+ "ExportSortieRewards_en.json": {
+  "hash": "9KKdZCQuniCMme9yYICADQ"
+ },
+ "ExportUpgrades_en.json": {
+  "hash": "PUmELCrkSeCwoZjwzdTy1A"
+ },
+ "ExportWarframes_en.json": {
+  "hash": "T52FgDvHibPb2iPpSblcMw"
+ },
+ "ExportWeapons_en.json": {
+  "hash": "mEukLyJcjmC5zsTloV9Q8Q"
+ },
+ "Manifest": {
+  "hash": "e0c187432132276284dd68f7ca9fd6a0"
+ },
+ "DropChances": {
+  "hash": "cab9f6f3bacf1c27299a5546d182c8bc"
+ },
+ "Patchlogs": {
+  "hash": "828d4ae49871de8896f8f5c6408c6c85"
+ }
+}
